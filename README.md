@@ -1,0 +1,2 @@
+# Social Graph
+  ChatGPT This project represents a social network using Java's HashMap and TreeSet. Each person is stored with their unique ID as a key, and their friends' IDs are stored in a sorted manner in a TreeSet. Operations include adding friendships efficiently, displaying sorted friend lists, and checking connections between individuals using DFS. This setup ensures efficient data management and traversal of social connections.
